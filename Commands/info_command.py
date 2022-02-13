@@ -1,0 +1,3 @@
+# Return command list
+def return_command():
+  return '```***Moogies: Hail Da Great Whiskerer; sacred text are as follows*** \n\tprefix for this bot is $\n\n\nhelp: \tretrieve command list\n\nroll [X]d[Y]+\-[Z]: \tRoll dice where X is number of dices, Y is number of dice sides, Z is your bonus modifier, it is also *optional*. \n\tE.g $roll 1d20+3 $roll 1d20-3 $roll 1d20\n\ndnd:\tto search for dnd related information. subcommands are [list, search]\n\te.g: $dnd list $dnd search\n\nmeme:\tsubcommands are [cheer,hello,brain,nope]\n\te.g: $meme cheer,```'
